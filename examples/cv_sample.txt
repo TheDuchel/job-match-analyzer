@@ -1,0 +1,62 @@
+STÉPHANE DIVON
+PROFIL
+
+Spécialiste en intelligence artificielle et développeur de solutions applicatives avec expérience en développement, automatisation, intégration d’API et maintenance de solutions technologiques. Expérience pratique avec les environnements cloud, les modèles de langage (LLM), le prompt engineering, le traitement de données et l’automatisation. Habitué à analyser des problèmes complexes, à effectuer des tests et à optimiser des solutions afin d’assurer leur stabilité, leur performance et leur fiabilité.
+
+COMPÉTENCES TECHNIQUES
+
+Intelligence artificielle : LLM, prompt engineering, évaluation de modèles, fine-tuning, traitement de documents, AI Builder
+Programmation : Python, SQL, JavaScript/TypeScript, C#
+Cloud : Google Cloud Platform (GCP), services cloud, gestion des environnements
+MLOps / DevOps : CI/CD, GitHub Actions, Cloud Build, tests automatisés, gestion de versions
+Données / APIs : SQL, REST APIs, HTTP, webhooks, intégration de systèmes
+Automatisation : Power Automate, Power Apps, automatisation de processus
+Développement : Git, architecture applicative, résolution de problèmes, documentation, tests
+
+EXPÉRIENCE PROFESSIONNELLE
+Développeur de solutions applicatives
+
+2024 - Présent
+
+Développement, maintenance et évolution de solutions applicatives utilisées dans des environnements d’entreprise.
+Conception de workflows automatisés pour les processus d’approbation, de sécurité, d’archivage et de traitement de données.
+Développement d’intégrations entre applications et services externes à l’aide d’API REST, HTTP, SQL et webhooks.
+Intégration de fonctionnalités d’intelligence artificielle dans des processus d’entreprise.
+Analyse des performances et résolution de problèmes affectant les applications, intégrations et pipelines.
+Réalisation de tests fonctionnels et techniques après les modifications et mises à jour.
+Optimisation de processus afin d'améliorer la fiabilité, la performance et la maintenabilité des solutions.
+Collaboration avec les équipes techniques et fonctionnelles pour analyser les besoins et résoudre les problèmes complexes.
+Documentation des architectures, processus et configurations pour faciliter la maintenance et l’évolution des solutions.
+Analyste-programmeur
+
+2023
+
+Développement et maintenance de solutions applicatives.
+Conception et interrogation de bases de données avec SQL.
+Analyse des besoins et résolution de problèmes techniques.
+Participation aux tests, corrections et améliorations des applications.
+Collaboration avec différentes équipes afin d’assurer la qualité et la stabilité des solutions.
+PROJETS IA
+Solutions basées sur les LLM
+Conception de solutions utilisant des modèles de langage pour l’automatisation et le traitement de contenu.
+Expérimentation avec différentes stratégies de prompt engineering.
+Évaluation des réponses des modèles et amélioration itérative des prompts.
+Exploration du fine-tuning et de l’adaptation de modèles selon les besoins applicatifs.
+Mise en place de pipelines permettant d’intégrer les modèles IA à des applications et services existants.
+Automatisation intelligente
+Développement de processus automatisés combinant traitement de données, APIs et services d’intelligence artificielle.
+Automatisation de tâches répétitives afin de réduire les interventions manuelles.
+Tests et validation des processus après modification des modèles, dépendances ou composants applicatifs.
+FORMATION
+Baccalauréat en informatique
+
+Université d’Ottawa | 2019 - 2023
+
+CERTIFICATIONS
+
+Microsoft Power Platform Fundamentals (PL-900)
+
+LANGUES
+
+Français : courant
+Anglais : courant
