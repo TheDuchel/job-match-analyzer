@@ -1,0 +1,77 @@
+Spécialiste, IA 
+
+Mont-Royal, QC · Reposted 1 week ago · 55 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+
+Save
+Your profile and resume are missing some required qualifications
+
+
+Show match details
+
+BETA • Is this information helpful?
+
+
+About the job
+Sommaire du poste
+
+Le Spécialiste AI sera responsable de la maintenance, de l’évolution et de l’optimisation des solutions d’intelligence artificielle déployées dans Google Cloud Platform (GCP), principalement basées sur des modèles de langage (LLM). Le rôle implique de garantir la performance, la stabilité et la fiabilité des solutions AI existantes, tout en participant activement à leur amélioration continue.
+
+Responsabilités
+
+ Assurer le maintien en conditions opérationnelles des solutions AI hébergées sur GCP. 
+ Surveiller les performances des pipelines, modèles et services AI. 
+ Gérer les mises à jour régulières des modèles, des dépendances et des environnements GCP. 
+ Effectuer des tests pour valider les modèles et pipelines après chaque mise à jour. 
+ Proposer et implémenter des optimisations (ex. fine-tuning, mise à jour de prompts, adaptation des pipelines). 
+ Participer à l’évolution de l’architecture AI afin d’améliorer la scalabilité, la sécurité et la robustesse. 
+ Supporter les équipes internes dans l’utilisation et la compréhension des solutions. 
+
+Exigences du poste
+
+ Minimum de 5 ans d’expérience en tant que spécialiste
+ Excellente maîtrise de GCP. 
+ Expérience avec les LLM : fine-tuning, prompt engineering, gestion de versions de modèles, évaluation. 
+ Maîtrise d'un langage de programmation pour la manipulation de modèles (ex. Python). 
+ Connaissance des outils de CI/CD (GitHub Actions, Cloud Build…). 
+ Compréhension de bonnes pratiques en MLOps. 
+ Baccalauréat ou maîtrise en informatique, génie logiciel, intelligence artificielle ou domaine connexe. 
+ Expérience pratique avec des projets AI/LLM. 
+ Capacité à résoudre des problèmes complexes de manière autonome et structurée. 
+
+We thank all interested applicants. Only those selected for an interview will be contacted by our recruitment team.… more
+
+Unlock hiring insights on Dollarama
+18%
+
+employee growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-09-01 00:00:00 to 2026-09-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 10439 to 12295.
+End of interactive chart.
+Applicant education level
+
+17%
+
+have a Master of Engineering
+
+ 7 days before your trial ends.
+
+About the company
+
+
+
+
+
+Dollarama a été fondée par l’entrepreneur canadien Larry Rossy, représentant de la troisième génération d’une famille de détaillants. Tout a commencé en 1992 par un premier magasin situé à Matane, au Québec. Puis, l’entreprise a connu une croissance rapide au cours des vingt années suivantes et est devenue une référence pour les ménages canadiens et une destination de magasinage de choix d’un bout à l’autre du pays.
+
+Dollarama est désormais un détaillant à bas prix reconnu au Canada ayant une portée internationale avec plus de 2 700 magasins et 41 000 employés qui servent la clientèle sur trois continents et dans sept pays. L’entreprise est dirigée par Neil Rossy, détaillant de quatrième génération et membre de l’équipe de direction fondatrice de Dollarama.
+
+Dollarama vise à offrir à ses clients une expérience de magasinage homogène et une valeur attrayante, en proposant un vaste éventail de marchandises générales, de produits consommables et d’articles saisonniers. Tous les magasins sont détenus et exploités par Dollarama et sont bien situés, que ce soit dans des régions métropolitaines, dans des villes de taille moyenne ou dans des petites villes. Les produits sont vendus individuellement ou en lots, à des bas prix fixes.
